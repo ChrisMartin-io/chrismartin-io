@@ -9,6 +9,11 @@
 
 /* Spotlight section */
 
+
+div#two-2 {
+  height: 10px;
+}
+
 .spotlight-header {
   background-color: rgba(0, 0, 0, 0.025);
   width: 100%;
