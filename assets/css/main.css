@@ -77,6 +77,20 @@ div.about {
 	max-width: 50%;
 }
 
+div.about-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  text-align: left;
+}
+
+div.about-grid ul {
+  padding-left: 5em;
+}
+
+div.about-grid > p {
+  text-align: left;
+}
+
 div.outer-about {
 	display: flex;
 	justify-content: space-evenly;
