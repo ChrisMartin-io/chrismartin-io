@@ -109,6 +109,7 @@ p.about {
 }
 img.about {
   max-width: 330px;
+  max-height: 330px;
   border-radius: 200px;
   opacity: 0.6;
   justify-self: flex-end;
